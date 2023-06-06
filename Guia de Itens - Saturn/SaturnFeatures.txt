@@ -1,0 +1,34 @@
+[Função Archiving] seletor de funções
+
+ID
+
+1- Ponto de Exclamação gigante
+2- ?
+3- Guerra de Guilda (Entreservers)
+4- Guia de Signo
+5- Coliseu de Guardiãos
+6- Caça do Tesouro
+7- Casa Bônus
+8- Auto-Instância
+9- Asa
+10- Casamento
+11- Alquimia
+12- Consignação de Ouro
+13- ?
+14- Circulo de Missões
+15- QR Code (1x por char, dps de clicar some)
+16- Código para completar missão (Bugado)
+17- ?
+18- ?
+19- ?
+20- ?
+
+41- Rank de Diamante
+43- Ver Glória do Rank Bugado
+44- Absorver (OBS: ele funciona com 0)
+
+
+ID:
+Ativar: 1 
+
+

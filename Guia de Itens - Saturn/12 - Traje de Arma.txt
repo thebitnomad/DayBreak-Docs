@@ -1,0 +1,12 @@
+0,12,4,0  - Traje Cavaleiro de gelo - Pedra Selo Acinzenda
+0,12,9,0  - Traje Cavaleiro verde - Pedra Selo Dourada
+0,12,14,0 - Traje Cavaleiro azul - Pedra Selo Negra
+0,12,19,0 - Traje Caçador(a) das areias - Pedra Selo Dourada
+0,12,24,0 - Traje Caçador(a) das trevas - Pedra Selo Negra
+0,12,29,0 - Traje Caçador(a) de gelo - Pedra Selo Acinzenda
+0,12,34,0 - Traje Mago(a) azul - Pedra Selo Dourada
+0,12,39,0 - Traje Mago(a) verde - Pedra Selo Negra
+0,12,44,0 - Traje Mago(a) de gelo - Pedra Selo Acinzenda
+0,12,49,0 - Traje Manipuladora das areias - Pedra Selo Dourada
+0,12,54,0 - Traje Manipuladora de gelo - Pedra Selo Acinzenda
+0,12,59,0 - Traje Manipuladora das trevas - Pedra Selo Negra

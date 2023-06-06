@@ -1,0 +1,54 @@
+Pac Nvl 45  (precisa de 300 diamantes)
+1,1046,0,0
+2,481,0,0 chaves douradas pra abrir os baus de ouro
+
+999999999 exp
+
+99999999 ouro
+
+7 larvas e 
+7 purgatório
+
+--
+Tecido
+
+0,17,206,0  / Pingente    / Purgatório Lendário
+0,18,366,0  / Peitoral    /  Purgatório·Tecido Santificado Empoeirado
+0,19,219,0  / Anel        / Lava·Anel Fantasma  / 
+0,19,218,0  / Anel        / Lava·Anel de Gelo  / 
+0,20,338,0  / Mãos        / Lava·Braçadeiras Empoeiradas
+0,21,341,0  / Cabeça      / Lava·Chapéu Empoeirado
+0,22,179,0  / Jóia kapeão / Purgatório·Olhos Sagrados
+0,23,118,0  / Braceletes  / Lava·Munhequeiras da Destruição /
+0,23,117,0  / Braceletes  / Lava·Munhequeiras Nemesis /
+0,24,298,0  / Botas       /  Lava·Grevas Empoeiradas
+
+Armas:
+
+0,16,561,0 / Cavaleiros    / Purgatório·Dança do Demônio das Espadas Malignas
+0,16,562,0 / Caçadores     / Purgatório·Dragão do Arco Santo 
+0,16,563,0 / Manipuladora  / Purgatório·Aura de Lâminas Malignas
+0,16,564,0 / Mago          / Purgatório·Destruição dos Registros de Criação
+
+Guardião Solina
+1,353,0,0
+
+Habilidades passivas:
+
+
+2,202,0,0  / Arcano avançado  mago / mani
+2,179,0,0  / ataque avançado  cavaleiro / caça
+
+2,178,0,0  / Configurações de Proteção Avançado
+2,906,0,0  / Impávido av
+2,189,0,0  / Silêncio avicci
+2,915,0,0  / Grande espirituoso
+
+
+1,314,0,0 Ampulheta Esquecida
+1,298,0,0 Fruta de Dragão / evoluir nível / umas 700 2x
+
+
+
+ 
+
